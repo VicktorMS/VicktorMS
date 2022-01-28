@@ -1,4 +1,8 @@
-### Victor Moraes
+# Victor Moraes
+Enthusiast of the best web & mobile development technologies.
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+
+
 <!--
 **VicktorMS/VicktorMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
