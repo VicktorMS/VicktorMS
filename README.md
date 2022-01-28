@@ -1,6 +1,6 @@
 # Victor Moraes
 Enthusiast of the best web & mobile development technologies.
-![image](https://img.shields.io/badge/victor-moraes-43006a112?style=for-the-badge&logo=linkedin&logoColor=white)
+![image](https://img.shields.io/badge/Victor%20Moraes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 <!--
