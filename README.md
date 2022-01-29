@@ -9,3 +9,5 @@ Starting in programming and currently learning about JS, CSS and HTML5
 “You’re unlikely to discover something new without a lot of practice on old stuff, but further, you should get a heck of a lot of fun out of working out funny relations and interesting things.” 
 
 ![image](https://img.shields.io/badge/-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+![image](https://sujeitoprogramador.com/wp-content/uploads/2021/01/js-icon.png)
