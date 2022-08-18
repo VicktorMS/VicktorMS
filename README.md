@@ -1,6 +1,7 @@
 # Victor Moraes
 [![image](https://img.shields.io/badge/Victor%20Moraes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-moraes-43006a112/)](https://www.linkedin.com/in/victor-moraes-43006a112/) [![image](https://img.shields.io/badge/-victor.moraesrj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:victor.moraesrj@gmail.com)](mailto:victor.moraesrj@gmail.com)
 
+
 Enthusiast of the best web & mobile development technologies.
 
 Starting in programming and currently learning about JS, CSS and HTML5
@@ -15,4 +16,6 @@ Starting in programming and currently learning about JS, CSS and HTML5
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
+https://github-readme-stats.vercel.app/api?username={VicktorMS}&theme=blue-green
+
+
