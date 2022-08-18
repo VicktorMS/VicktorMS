@@ -20,7 +20,7 @@ Starting in programming and currently learning about JS, CSS and HTML5
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
 
-![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=VicktorMS&theme=blue-green
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicktorMS&theme=blue-green)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicktorMS&layout=compact)](https://github.com/VicktorMS/github-readme-stats)
 
 
