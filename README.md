@@ -7,7 +7,6 @@ Estudante, apaixonado por programação e procurando cada vez mais evoluir na á
 Estudante de Análise e Desenvolvimento de Sistemas, atualmente desenvolvendo aplicaçãoes mobile.
 
 
-
 “You’re unlikely to discover something new without a lot of practice on old stuff, but further, you should get a heck of a lot of fun out of working out funny relations and interesting things.” 
 
 
@@ -17,7 +16,4 @@ Estudante de Análise e Desenvolvimento de Sistemas, atualmente desenvolvendo ap
 ![image](https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicktorMS&theme=tokyonight)
-
-### Git Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VicktorMS&show_icons=true&theme=tokyonight)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VicktorMS&show_icons=true&theme=tokyonight)
