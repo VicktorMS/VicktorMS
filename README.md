@@ -17,6 +17,6 @@ Starting in programming and currently learning about JS, CSS and HTML5
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 # Git Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VicktorMS&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VicktorMS&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicktorMS&layout=compact)](https://github.com/VicktorMS/github-readme-stats)
 
 
