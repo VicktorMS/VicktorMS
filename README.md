@@ -4,7 +4,7 @@
 
 Estudante, apaixonado por programação e procurando cada vez mais evoluir na área.
 
-Estudante de Análise e Desenvolvimento de Sistemas, atualmente desenvolvendo aplicaçãoes mobile.
+Estudante de Análise e Desenvolvimento de Sistemas, atualmente desenvolvendo aplicações mobile.
 
 
 “You’re unlikely to discover something new without a lot of practice on old stuff, but further, you should get a heck of a lot of fun out of working out funny relations and interesting things.” 
