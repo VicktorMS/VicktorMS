@@ -1,18 +1,44 @@
-# Victor Moraes
-[![image](https://img.shields.io/badge/Victor%20Moraes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-moraes-43006a112/)](https://www.linkedin.com/in/victor-moraes-43006a112/) [![image](https://img.shields.io/badge/-victor.moraesrj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:victor.moraesrj@gmail.com)](mailto:victor.moraesrj@gmail.com)
+<h1>Hi there, I'm <a href="http://">Victor Moraes</a>&#128075;</h1><hr>
+    <div>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" alt="Linkedin Badge" srcset="">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge" srcset="">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge" srcset="">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" srcset="">
+        <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="" srcset="">
+    </div>
+
+   <h2>Que bom ter você aqui!&#128515;</h2>
+   <p>
+        Olá meu nome é Victor, sou um estudante de Análise e Desenvolvimento de Sistemas no Instituto INFNET. Concluí recentemente o curso de desenvolvimento Android e tive a oportunidade de aplicar o que aprendi para criar um portfólio de aplicativos Android completo, que pode ser encontrado aqui, no meu Github.<br><br>
+        Atualmente estou focado em desenvolvimento Front-End, estou estudando tecnologias como HTML, CSS e JS.<br>
+        <strong>Seja muito bem-vindo ao meu perfil!</strong>
+    </p>
+    
+   <h3>Pessoal:</h3>
+    <ul>
+        <li>Atualmente estou me especializando em desenvolvimento Front-End. &#x1f468;</li>
+        <li>Tenho focado principalmente em HTML, CSS e JS. &#128218;</li>
+        <li>Recentemente tenho estudado Fundamentos de React &#128187; e Mobile-first UI com React.&#128241;</li>
+        <li>Tenho experiência em Desenvolvimento Android, tenho um <a href="">projeto publicado na Play Store</a>. &#129302;</li>
+        <li><a href="">Currículo<a > &#128221;</li>
+    </ul>
+    <h3> &#128200; Minhas estatísticas: </h3>
+    <div>
+        <a href="https://github.com/VicktorMS">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicktorMS&layout=compact&langs_count=7&theme=dracula"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VicktorMS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </div>
+    <h3> &#128640; Ferramentas e Tecnologias:</h3>
+    <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="42"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="42"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="42"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" width="42"/>
+    </div>
+          
+          
 
 
-Estudante, apaixonado por programação e procurando cada vez mais evoluir na área.
-
-Estudante de Análise e Desenvolvimento de Sistemas, atualmente desenvolvendo aplicações mobile.
-
-
-“You’re unlikely to discover something new without a lot of practice on old stuff, but further, you should get a heck of a lot of fun out of working out funny relations and interesting things.” 
-
-
-## Main languages ​​I'm studying:
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![image](https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
-
+   ![Snake animation](https://github.com/VicktorMS/VicktorMS/blob/output/github-contribution-grid-snake.svg) 
