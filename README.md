@@ -10,7 +10,7 @@
    <h2>Que bom ter você aqui!&#128515;</h2>
    <p>
         Olá meu nome é Victor, sou um estudante de Análise e Desenvolvimento de Sistemas no Instituto INFNET. Concluí recentemente o curso de desenvolvimento Android e tive a oportunidade de aplicar o que aprendi para criar um portfólio de aplicativos Android completo, que pode ser encontrado aqui, no meu Github.<br><br>
-        Atualmente estou focado em desenvolvimento Front-End, estou estudando tecnologias como HTML, CSS e JS.<br>
+        Atualmente estou focado em desenvolvimento Front-End, estou estudando tecnologias como ReactJS, React Native, Git e mais<br>
         <strong>Seja muito bem-vindo ao meu perfil!</strong>
     </p>
     
