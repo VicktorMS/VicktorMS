@@ -11,7 +11,7 @@
 <h3 align="left">👨‍💻 Sobre Mim</h3>
 
 <p align="left">
-Olá, pessoal! Sou Victor de Moraes, nascido e criado no Rio de Janeiro, Brasil, em 2004. Trabalho com suporte de TI há quase um ano, auxiliando em tarefas offshore e onshore para a <a href="https://petrobras.com.br/en/" alt="Site da Petrobras">Petrobras</a>.<br>
+Olá, pessoal! Sou Victor de Moraes, nascido e criado no Rio de Janeiro, Brasil, em 2004. Trabalho com suporte de TI há quase um ano, auxiliando em tarefas offshore e onshore para a maior companhia de Petroleo.
 
 <p>Recentemente, venho direcionando meu foco para o desenvolvimento de projetos principalmente em <b>Python</b> e <b>ReactJS</b>. Tenho criado soluções robustas e eficientes utilizando Python, para otimizar fluxos de trabalho e melhorar a produtividade. Minha experiência com <b>ReactJS</b> me permite desenvolver interfaces web modernas e responsivas, garantindo uma ótima experiência para os usuários.</p>
 
